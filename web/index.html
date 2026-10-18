@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cyber Empires</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <div id="stage">
+    <canvas id="screen" width="320" height="200"></canvas>
+    <div id="overlay">
+      <h1>CYBER EMPIRES</h1>
+      <p id="status">Loading…</p>
+      <div id="drop" hidden>
+        <p>Game data not found on this server.</p>
+        <p>Drop your original <b>Cyber Empires</b> DOS game folder or <b>.zip</b> here, or
+          <label class="btn">choose files<input id="file" type="file" multiple hidden></label>.</p>
+        <p class="small">Files stay in your browser; nothing is uploaded.</p>
+      </div>
+    </div>
+  </div>
+  <div id="help">
+    <span>Mouse: select · <b>Esc</b> pause · Combat: arrows/keypad move, <b>Space</b>/<b>KP+</b> fire, <b>Tab</b>/<b>KP0</b> weapon, <b>F1</b> switch cyborg, <b>F2</b> hold fast, <b>F3</b> retreat</span>
+  </div>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

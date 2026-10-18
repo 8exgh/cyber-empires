@@ -1,0 +1,78 @@
+name: Build and Deploy Cyber Empires
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cyber-empires-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  IMAGE: ghcr.io/8exgh/cyber-empires
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+      - uses: Swatinem/rust-cache@v2
+      - run: cargo test --release
+      - run: cargo build --release --target wasm32-unknown-unknown
+
+  build:
+    needs: test
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      packages: write
+    outputs:
+      digest: ${{ steps.build.outputs.digest }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build and publish image
+        id: build
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: |
+            ${{ env.IMAGE }}:latest
+            ${{ env.IMAGE }}:sha-${{ github.sha }}
+          build-args: GIT_COMMIT=${{ github.sha }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Trigger the Server7 deployment in devops
+        env:
+          GH_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          IMAGE_DIGEST: ${{ needs.build.outputs.digest }}
+          SOURCE_COMMIT: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          test -n "$GH_TOKEN" || { echo 'DEPLOY_TOKEN is not configured; run deploy-cyber-empires.yml in 8exgh/devops by hand.' >&2; exit 1; }
+          jq -n --arg image "$IMAGE@$IMAGE_DIGEST" --arg commit "$SOURCE_COMMIT" \
+            '{event_type: "cyber-empires-deploy", client_payload: {image: $image, commit: $commit}}' \
+            | gh api repos/8exgh/devops/dispatches --method POST --input -

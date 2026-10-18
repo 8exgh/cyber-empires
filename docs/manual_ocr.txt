@@ -1,0 +1,1890 @@
+Corer
+2nVi PIRES
+ro : \ of Ve S &»
+
+a ae 40) \€,
+me We, meogre
+Ae We 3
+| ‘fi ((' \ ne | | T;
+[Ge rag
+STRATEGIC SIMULATIONS, INC. LIMITED WARRANTY
+
+Strategic Simulations, Inc. (“SSI”) warrants that the diskette(s) on which the enclosed program is recorded
+will be free from defects in materials and workmanship for a period of 30 days from the date of purchase. If
+within 30 days of purchase the diskette(s) prove defective in any way, you may return the diskette(s) to
+Strategic Simulations, Inc., 675 Almanor Avenue, Sunnyvale, CA 94086-2901 and SSI will replace the
+diskette(s) free of charge. In addition, if the diskette(s) prove defective at any time after the first 30 days,
+return the diskette(s) to SS! and SSI will replace the diskette(s) for a charge of $10.00 (each disk) plus
+$4.00 for shipping and handling. California residents, add applicable sales tax.
+
+SSI MAKES NO WARRANTIES, EITHER EXPRESS OR IMPLIED, WITH RESPECT TO THE SOFTWARE PRO-
+GRAM RECORDED ON THE DISKETTE OR THE GAME DESCRIBED IN THIS RULE BOOK, THEIR QUALITY,
+PERFORMANCE, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE. THE PROGRAM
+AND GAME ARE SOLD “AS IS.” THE ENTIRE RISK AS TO THEIR QUALITY AND PERFORMANCE IS WITH
+THE BUYER. IN NO EVENT WILL SS! BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUEN-
+TIAL DAMAGES RESULTING FROM ANY DEFECT IN THE PROGRAM OR GAME EVEN IF SSI HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. (SOME STATES DO NOT ALLOW THE EXCLUSION
+OR LIMITATION OF IMPLIED WARRANTIES OR LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAM-
+AGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.)
+
+The enclosed software program and this Rule Book are copyrighted. All rights are reserved. This Rule Book
+may not be copied, photographed, reproduced, or translated or reduced to any electrical medium or
+Machine-readable form, in whole or in part, without prior written consent from SSI. The program accompa-
+nying this Rule Book may be copied, by the original purchaser only, as necessary for use on the computer
+for which it was purchased.
+
+©1992 Strategic Simulations, Inc. All Rights Reserved.
+WHAT TO DO IF YOU HAVE A DEFECTIVE DISK: Each of our games undergoes extensive playtesting prior
+to its release. Through this process we hope to uncover and correct any errors in programming. However,
+due to the complex nature of our simulations, some program errors may go undetected until after publica-
+tion. In addition to errors in the program, there are occasionally problems with the disk itself. We experience
+the industry standard of approximately a 3 to 5% failure rate of duplicated disks. Before assuming that a
+disk is defective, make sure to check your disk drive. Up to 95% of the disks returned to us as defective will
+run fine on our computer systems. Often the problem is with a disk drive that needs servicing for alignment,
+“speed, or cleaning.
+
+Should you have a defective disk, please return the disk only (keep all other parts of the game) to our
+Customer Support Department, along with a note describing the problem you have encountered. A replace-
+ment disk will be provided upon our receipt of the defective disk.
+
+Should you uncover an error in the program, return both your game disk and any “save game” disks to our
+Customer Support Department. Please enclose a description of what was taking place in the game when the
+error occurred. Upon correction of the program error, we will return an updated disk to you.
+Always make sure to include your name, address, and daytime telephone number with any correspondence.
+We will do our best to see that any problems are corrected as soon as possible.
+Wee i
+ERE
+CONTENTS
+
+Your Game Box Should Contain ......0.... eee eee eeeeeeeeeeerereeeeteeeeeeeeeeeeee
+BackUp DISKS ..0.......ccceeeeeeeeeeeeeeeneeeeeeseceenereeeteceeeeanereesesessangereeeseees I
+Readme File .......cccccceccececeeeeeeeeeeeeeeeeaeeebeseseceeeesseeeeeeeeaeeeeeeereeeeee |
+installing and Starting the Game ..........ccccceceeeeeeeeetteetenseeeeeee |
+SoUN Card Setup ..........ceccecccecsesseceeeeesenneeeeccecsueeeeeeesuetersesssseeree l
+Documentation Check .............cceeeeeeeeeeeeeeeeeeeceeeeeseteetestreetnesaaeeeee d
+Game Interface ........ccccccccceceeeeeeeesneestteettessecssrssseaeaeeseesegeeseeeeeeeeese
+
+INITIAL GAME OPTIONS MODE 2000000000... ccceccceeseceeeesttnnneesenennl
+The Complete Campaign Option .........cccccccccecececeeseeeecerenseereeseeeenel
+The Strategy Campaign Option ...........cccccseeeseseseseesaeeeeseteseeeeeeeD
+The Battle Practice Option..........ccccceceseteecesesseeeeeeesenteeeesentteeee SD
+
+SETTING UP A CAMPAIGN GAME .............ccccccccccececceeneeeessneeeeneterteeres
+The Complete and Strategy Campaigns .........:::ecceeeeeeeeeeeeereeeeee
+Winning a Campaign Game .........ccccceeseecceeeseeeteeeeeesereeeseeseeeseereesees
+The Geography of the Planet OFiOn .........cccccceeesseceeeenereeeeeeteeeeetene
+The Campaign Settings SCreen........ccccccccsceceeeesececeereesseeeesenseeeeeeee
+Entering a Player's NaMe .........cccccscccesseceeeceesseeeeseeceeserseseteteneeee¥eO
+Setting the Computer Level... ccc eeeeeceeeeeceesseeeereeerseeeeeenne
+
+SETTING UP A BATTLE PRACTICE GAME ................00:ccccceteeseeeeeeeeee 8
+SHOWGOWN.........cecccccceeeeeeneeceeseneeseeeeeseeseeeeeeceeteeeeessugeneeeereesrseeeseees®
+SULVIVOE 2... e cece cc cccceeceeceeceeeceeeeseesseersausaeesauaeesaeeeseaaeaaaaeeeeaeeeeteeeeeeee®
+
+STRATEGY MODE 0.002000 ceeece cece eee teeeeeettteeteeetntteeseeeeseeee | O
+The Strategy Control Screen .......ccccccceceeeeeeeeeeenseeeeeeentteeeeeeeeeee LO
+Map ICOMS 20... cece ccc cce sees eeeeeeeeereeetseeeneeeteceesteestsestareererearegeese LI
+Actions on the Strategy Control Screen ........ceeeeeeeeeeeteerereedeenee PTY
+
+STRATEGY CAMPAIGN CONFLICT RESOLUTION. .........000...--c 23,
+
+COMPLETE CAMPAIGN CONFLICT RESOLUTION ..2..00....0.c.ecceene 23
+Preparing an Attack .........ccccccccceeeesesscecereeeeesecsecaeerenstedenscteesseniQ4
+Preparing a Defense............cccccccceeeecessecereeeseseeersanetesseeresenresteres2O
+The SIM Option ............ 0c ccc eee eceeeceeeeeeeeeeceereenteanaaenasseseeeeeeeeeeeees ee OO
+The Combat Mode Screen .........cccecccccceccccccsseeesnstepeesersbeetenesepeer2 Qe,
+Starting a Battle 0.2.2... cc ccc ccecceseecessseeeseeseseesneeetssesstseeeseee SO
+Manipulating the Control Cyborg ............cceeeeceeeeeseeeeeeeeteeetereeeneee 3 I
+Ending a Battle ..............ccecccccceeeceeeeeeeeeceeeeeeteeessneeeceeeennneeeeentees D4
+The Battle Map.............ccccccccccccccccecceecscecueetneeeeetenseesecsnseesseeeeeeees D4
+Country Particulars .......0.000...cccccccccceeceeceeeeeeeeeeeeeeeteteeteeeeteetteteee es 3D
+Terms USO” 0... cccccccceeeceecennneeeeecceeenaeeeeeessnaeeesesstseeeeeeereeeees DD
+TOF iS oo. ccccceeeceeeccecneceeccpnanegeeeseeneeeeeseeetseeeeserrensdeeeseersstess: SOF
+Strategic HINtS ooo... ecccccccccesseeeeeceeeceeeaeeteesetsenseaaeeeeesestsessaeeneeeee DZ
+Weapon System Dat .............ccccececeeececeeeeessnerrtsessesttnrnsenaeeseseee DO
+Weapon Data Table ...........cccecccccescescesseseeneeseeesesssesersstseetterereeen 4 |
+INTRODUCTION Installing and
+Cyser Empires integrates strategy with Starting the Game
+arcade action on a global scale. As the —_Use the instructions on your data card
+commanding general of an expanding _ to install and start the game.
+military empire, you will need sound
+strategic judgement, fast reflexes, Soundcard Setup
+anda willingness to take risks if you Check your data card for any informa-
+hope to win. tion relating to the selection of your
+Your first task is the construction of computer's soundcard system.
+country capitals, factories, factory .
+enhancements, fortifications, and Documentation Check
+most important of all, cyborg armies. To verify that you have a legitimate
+Initial expansion is always rapid, as copy of the game, you will be asked
+each empire strives to establish a to answer a question using informa-
+strong position. You must perpetually —_ tion from this rule book. The answer
+watch your empire's borders for signs —_will be a number or a single word.
+that the enemy is preparing a major Each question will also list a page
+attack, while plotting your enemies’ number. Read the question carefully,
+destruction. then check the listed page for the
+Victory is achieved only by annihilat- answer. enter the answer using the
+ing all opponent forces and seizing y :
+control of the countries occupied by Game Interface
+Cyser Empires uses two different con-
+STARTUP trol systems: a mouse system and a
+real-time action interface which uses
+Your Game Box the joystick and/or keyboard.
+Should Contain ; For controls on the Commodore
+« This Rule Book » Game Disk(s) Amiga, please see your system data
+« Data Card card. Also, some MS-DOS machines
+. may have special game interface
+Backup Disks restrictions. Refer to your data card
+Your version of the game permits for more information.
+backup copies to be made. Pease i , Using the Mouse Interface
+make a Dackup copy and put 9 This interface can actually use either
+nal disk(s) away for safekeeping. See mouse or keyboard (but not both). If a
+your data card for more information. mouse driver is not loaded, the key-
+. board becomes operational. If neither
+Readme File ; keyboard or mouse moves the cursor,
+Your game disk may come with a check your keyboard connections.
+README file that contains rules ; _
+updates and/or errata. Please read The mouse interface is in effect when
+this file before playing the game. you are in the initial game options
+mode, when setting up a game, and
+i fe i
+onscreen cane ee eens sent serene
+MERCURY ee
+The Mercury was designed to be a low-cost fighting cyborg. Its quick
+speed and high maneuverability make it difficult to hit. especially in con-
+fined or cluttered terrains. The Mercury's weakness lies in its light armor.
+This 30-ton cyborg cannot withstand much punishment. Its only weapon
+iS the light laser. These cyborgs are most effective in numbers. Three or
+four have been known to destroy larger cyborgs.
+Mercury Tactical Detaiis
+; MERC UR
+yi
+
+Speed Fast
+Cooling Factor 3 '
+Armor 30 . [ we * |
+Weapon System 1 Light Laser (3) . fee! .*
+Ammo System 1 Unlimited |
+when in the strategy mode. To control INITIAL GAME
+game functions in these portions of
+the game, move the cursor (the OPTIONS MODE
+arrow) to the desired option on Cyser Empires contains three different
+screen, using either the mouse or the game options. To start a game, select
+cursor keys. Then select that option, your preferred option on the initial
+using the left mouse button to click option screen that appears after the
+the button, or using the Enter key if documentation check.
+using keyboard selection. When a game is completed, you will
+Using the Action Interface be returned to this screen and may
+The action interface utilizes the key- select another game. Check your data
+board, and a joystick option is avail- card for information on returning to
+able for both one and two player your computer's operating system.
+games. The player controls one
+cyborg in real time combat, while the The Complete ’
+other cyborgs in the army are under Campaign Option
+computer control. This interface is This option is the highlight of Cyser
+described in detail in the “Combat Empires. You campaign to conquer the
+Mode” section of this rule book. world of Orion, competing with one to
+
+four other empires. You begin your
+
+2
+vie
+A et RTA ER TERT IIE TI oo
+endeavor in a single country, and, if Goals are identical to those in the
+successful, expand your empire to the complete campaign, but conflicts are
+far reaches of the planet. automatically resolved by a basic bat-
+. tle simulation, rather than offering
+erosion th y ne come you a choice of resolution methods.
+through an arcade action combat This battle simulation automatically
+mode that gives you direct tactical sets up tactical objectives for attacks,
+control. This form of combat is similar and resolves combat by 3 simple com-
+to that presented in the Showdown parison of the opposing forces.
+scenario, found in the Battle Practice The Battle
+option (see below). Alternatively, bat- . -
+tles may be resolved under a simula- Practice Option
+tion mode. This option deals strictly with the com-
+; bat mode of Cyser Empires. Its main
+You enter battles with the goal of function is to allow you to construct
+destroying fortifications, factory bays, cyborg armies and practice command
+factory enhancements, and the all- ing a cyborg force, and allows you to
+important capitals. You also strive to hone your fighting skills with individ-
+hinder your adversaries’ income by ual cyborgs.
+carrying out guerilla attacks on cities
+and unprotected lands. The Battle Practice option contains two
+different modes of play: Showdown
+The Strategy and Survivor. Showdown mode may
+Campaign Option be configured either as a battle
+. . ; between a single player and the com-
+In this quick game option you are puter, or as a battle between two play-
+engulfed in a purely strategic strug- ers, while Survivor mode is a test of a
+gle. A strategy campaign game may single player's arcade action abilities.
+be played out in a much shorter time
+than a complete campaign. See the “Setting Up a Battle Practice
+Game” and “Combat Mode” sections
+of this rule book for additional infor-
+. mation.
+3
+i aps i
+—_—————— ' ————T
+SETTING UPA ven Suvivind cynanus after a war
+with several Level One computer
+CAMPAIGN GAME opponents (see the “Setting the
+The Complete and Computer Level” section below for
+A information on computer opponent
+Strategy Campaigns . difficulty levels).
+As noted above, there are two differ-
+ent campaign games. The setup pro- The Geography of
+cedure and the strategy phases for the Planet Orion
+both campaigns are identical. — : :
+Orion is a single continent comprising
+However, in the Complete Campaign, 72 countries. Each country has its own
+players may either use a combat sim- unique attributes which vary in every
+ulation, or opt to participate directly game. Each country can hold a maxi-
+in combat. In the Strategy Campaign mum of ten cyborgs. Orion contains
+the combat simulation is automati- five different environments: arctic,
+cally invoked. For more information coniferous, desert, volcanic, and city.
+on the combat mode in the Complete Information on each environment is
+Campaign game, see the “Combat available in the “Reference” section at
+Mode” section of this rule book. the end of this rule book.
+Winning a The Campaign
+Campaign Game Settings Screen
+The object of both campaigns is to When a campaign game is selected, you
+conquer the world of Orion. This is must enter your preferences on the
+accomplished by destroying all enemy — Campaign Settings screen. If several
+empires. An empire is eliminated from players are competing, they must agree
+the game when all its forces and coun- on which settings will be used.
+tries have been lost. When this occurs, .
+a special screen appears giving the This screen, shown on page 5, also —
+name of the defeated opponent. includes an option that allows a previ-
+ously saved game to be loaded.
+When the last opponent is eliminated, .
+close the battle doors (select the icon Note: All currently selected items are
+of the doors). At the beginning of the highlighted in red.
+next strategy phase, the game Choosing the Empires
+informs you that you are supreme, Cyser Empires Can support up to five
+and a victory screen appears. empires (players), each having a
+At this point, you have won the game. —_ unique symbol and an associated
+You may go to the Statistics/Game color used on various icons. The three
+Options Screen and quit, or review buttons under each imperial symbol
+your empire’s statistics. A superior are used for selecting the empires to
+player will have a larger number of be included in the game and who con-
+credits and/or surviving cyborgs, trols each empire.
+_depending on the style of play used
+during the game. Even experts may
+be hard-pressed to retain more than a
+4
+i fe Di
+SS SRT ATI FETA AAT NE PONIES PS REO
+reed)
+Caz =] =f Mae nn Fr ri seers f
+| ENPIRE fom FEU SS Ee 4 See as es
+| oe YT | 13) what VI
+H nl 1 coment; semmmecl
+HON-ALTIVE — a ee qe.
+} RUMAM Ba f= Ps a r
+j conpuTeR = J” Be = Bg Eg
+pow aut ie |
+i —————————
+i ce bal
+a ; age
+| eee |
+Campaign Settings Screen
+Non-Active capitals, factories, and fortifications,
+An empire selected to this setting will as well as the locations of enemy
+not participate in the upcoming cam- cyborgs. You should choose this
+paign. option while learning the game.
+Human Fog of War
+An empire selected to this setting will This selection allows a player to see
+be controlled by a human player. enemies only when an adjacent coun-
+c t try is controlled by the enemy.
+he epire lected to this setting will Furthermore, the only icon that
+b coe vailed by e tee lavor. A appears on enemy countries is the
+e si f bilit y a recor Sov each imperial flag, which signifies that a
+eve ta ! y an ib oer on a later capital has been built in the country.
+screen (se the “Sett th Computer ne enemy may have a factory, a for-
+revel” see ‘5 i ing the p tification, and cyborgs present, but it
+evel” section, below). always looks as if only a capital is pre-
+Setting the Map Display sent in the location, regardless of the
+actual situation.
+Show All
+This option is the default, and allows In this “Fog of War” setting, players
+you to see all enemy country icons. know little, if anything, of their ene-
+This means that each player knows mies’ strengths or weaknesses. They
+the number and locations of enemy must therefore be considerably more
+cautious and suspicious when dealing
+with them.
+5
+i S és i |
+a a a LAA ie A EEE EET RE
+It is also important to note that if a Selecting OK
+player's country is adjacent to an : Once the desired empires, map dis-
+enemy, but the enemy has no capital play, and planet type have been cho-
+in the country, the country appears to sen you are ready to begin. Selecting
+be neutral. the OK button at this time starts the
+The spy option is particularly useful game.
+under this setting. See the “Spying on —_—_The only restrictions on selecting
+the Enemy” section for more informa- empires to participate in a game are:
+tion.
+. 1. There must be a minimum
+
+Setting the Planet Type of 2 empires.
+Each country’s net worth is set at ran- 2. One must be controlled by a human.
+dom at the start of each new game, ;
+based on a value range for the partic- Loading a Game
+ular type of planet. You may set this The LOAD button on the campaign set-
+range to one of three positions, or tings screen is used to load a previ-
+scenarios. AVERAGE is the default. ously saved game. Games saved in
+In the poor planet scenario it is more nto type of 1 For example be gars
+aut to produc ge cyborgs, saved the Sategy Campaign ca
+most available funds are absorbed by be loaded and played in the Complete
+the purchase of new capitals and forti- paign.
+fications. This scenario adds a signifi- The number of saved games available
+cant level of challenge to the game. varies with your computer system. See
+The rich planet scenario provides your data card for more information.
+players with more revenue from con- A 5,
+trolled countries, thus providing them Entering a Player's Name
+with the means to purchase more fac- Following the selection of the OK but-
+tories, factory enhancements, heavier ton, the program prompts human
+fortifications and elite battle cyborgs. players for their names. To enter the
+You may wish to learn the game using —Generall’s name for a particular
+this scenario. empire, simply type it in and press
+Planet Type Value Range Table
+PLANET Tyre COUNTRIES VaLue RANGE FOR City COUNTRIES VALUE RANGE OTHER
+
+Poor 10,000 - 30,000 3,000 - 10,000
+
+Average 20,000 - 60,000 6,000 - 20,000
+
+Rich 30,000 - 100,000 9,000 - 30,000
+
+6
+i as i
+ESN 2S ARMS
+oe
+CYCLOPS
+
+The Cyclops is a low-cost cyborg capable of inflicting substantial damage
+on enemy targets. It is similar to the Mercury in speed ai 1d maneuverabil-
+ity but superior in armor and weaponry. Although this 90-ton cyborg can
+withstand a small amount of punishment. its main advantage aver the
+Mercury is its single-barrel light auto cannon. which can cause significant
+damage. The Cyclops is also equipped with two light lasers. Like the
+Mercury. Cyclopses are most effective in larger groups
+Cyclops Tactical Details
+CuctorS |
+Speed Fast
+Cooling Factor 3
+Armor 30 3 us ee g
+Weapon System! Light Laser [2] 3 Z 5 |
+Ammo System 1 Unlimited 3 fr =
+Weapon System 2 Light Auto Cannon aanilF
+Ammo System 2 25 rounds 1
+co
+Enter. The maximum length is eleven bility. On Levels 1 and 2, computer
+characters. The name entered is used empires also receive an economic
+with the empire symbol and associ- bonus, adding a new order of chal-
+ated color throughout the game. lenge to the game. Each empire's trea-
+. sury (also referred to as the “vault”)
+Setting the earns a fixed amount of interest on
+‘Computer Level the current amount of credits. Be
+There are six computer difficulty levels warned: at Level 1, computer empires
+in Cyser Empires ranging from 6 (very will become extremely wealthy. Only
+a the most expert general should
+easy) to | (extremely difficult). Each tt t this level of chall
+computer-controlled empire canbe set “MP this level of challenge.
+to any of the six levels. The program Once all players have entered their
+prompts for the computer level to be names and the computer levels have
+set. To set the level, select one of the been selected, the game begins with
+numbered boxes (the lower the num- the first strategy phase. See the
+ber, the more difficult the level). “Strategy Mode” section for further
+On Levels 4,5, and 6, the computer information.
+suffers a reduction to its intelligence.
+On Levels 1,2, and 3, it is at full capa-
+7
+i aps i
+Ee TE aa ares TT
+SETTING UP A BATTLE _ Purchasing Cyborgs
+PRACTICE GAME Once the credit limit has been estab-
+The main battle practice screen offers lished you will be given the opportu-
+: : nity to purchase your cyborg force on
+two different scenarios, and also the cyborg selection screen.
+shows the “Cybernetic Legends Purchasing cyborgs is explained in
+screen (a hall of fame). To start the the “Strategy Mode” section of this
+setup procedure, select one of the rule book. You can purchase up to ten
+two large buttons. To go back to the cyborgs. Computer-controlled forces
+initial options screen, select the OK purchase their own cyborg force
+button. See the "Combat Mode" sec- based on their credit limit.
+tion for information on how to play.
+The Battle
+Showdown Once you have selected your forces
+Showdown allows you to immediately the combat phase of the Showdown
+assemble a cyborg force and take it game begins. You cannot choose mis-
+into battle against either another sions or set cyborg formations. Both
+human or a computer-controlled parties are lined up against each other
+enemy. You choose the cyborg force at opposite ends of the battle map,
+that you believe will bring you vic- with the computer-controlled cyboras
+tory. The battle ends when one player —Ordered to destroy your units as their
+overwhelms the other. The winner is first priority. At the end of the battle,
+rewarded with the exhilaration of vic- a battle summary screen appears, list-
+tory and a summary of battle losses. ing each side’s losses.
+Selecting the Players Survivor
+The player option screen sets an The Survivor scenario allows you to
+attacker on the left and a defender hone your fighting skills with each
+on the right. To select human or com- type of cyborg. One player selects a
+puter opponents, use the arrow but- cyborg and strives to survive repeated
+tons. The buttons toggle through computer-controlled cyborg attacks.
+all available combinations. Then You should have little difficulty
+select OK repelling the initial attacks. However,
+Selecting the Terrain the longer you endure, the more tena-
+To select the terrain use the arrow cious the attacks become. The most
+buttons. The buttons toggle through resolute players will earn a place in
+all available terrains. Then select OK the Hall of Cybernetic Legends. Each
+cyborg class has its own space on the
+Selecting the Credit Amount list. The list is updated whenever a
+Before the battle you are allocated a new high score is achieved.
+sum of credits from which cyborgs . .
+must be purchased. To determine the Tosa purvivor scenario select
+amount of money for both opponents, ~ :
+use the arrow icons to select a num-
+ber. Then select OK.
+8
+i A Bs i
+ew AC —_
+_gpmenne TT ———
+| SELECT CYBORG FOR SURUIWAL |
+pity
+| bt “4
+Pal
+CYEORG:
+om i
+& |
+Cyborg Selection Screen
+Selecting the Cyborg becomes. Your cyborg is given full hit
+The cyborg selection screen appears. points and weapon ammunition
+Use the arrow buttons until the desired before every new battle. You have no
+cyborg is displayed. The default is the control over the selection of enemy
+Titan. Selecting the OX button at this cyborg types or battle terrain.
+time starts the first battle. Becoming a Cybernetic
+The Battles Legend
+Battles begin immediately after the You are ushered into this select group
+cyborg selection. The initial battles if you destroy more tonnage than the
+are fairly easy. However, the more current high score for a particular
+battles you manace to survive, the cyborg. A special screen appears,
+stronger and more numerous the requesting your name. When you have
+attacking computer-controlled force entered your name and hit Enter, the
+new high score is saved and the tacti-
+cal screen appears listing the new leg
+end,
+9
+i fBx a
+STRATEGY MODE Control Area
+You shape your empire through the The illustration below shows the
+purchase of structures and cyborgs in various icons and controls.
+the strategy mode of Cyser Empires. — Scroll Arrow Icons
+Army movements, repairs, and espi- Select an arrow and hold the
+onage activities also take place in this button/key down to scroll the map of
+phase. All empire manipulations are Orion in the indicated direction.
+managed through the strategy control
+screen. Move Cyborg Icon
+Move armies of cyborgs with this
+After all the players have completed option.
+their respective strategy turns, they .
+resolve the battles in the combat Repair Cyborg Icon /
+phase. This cycle continues until one Repair the survivors of battles with
+empire stands alone where many this option.
+once stood. Cyborg movements are Check Status/Spy Icon
+delayed until all players have com- Use this option to spy on enemy
+pleted their respective strategy turns. countries.
+The Strategy Build Cyborg Icon
+Control Screen Use this option once you have a fac-
+tory in operation.
+The Battle Doors y P
+These cloak each player's map sothat + Door Icon
+other human players cannot see it. In Select this item to open or close the
+the illustration the doors are open and _ battle doors.
+not visible. They must be opened by Build Capital Icon
+selecting the door icon on the strat: Use this icon to add an occupied
+egy control screen to start a player's country to your empire.
+turn, and closed via the same icon to
+end the turn.
+ _ Control Are
+SCROLL ARROW
+rs CE A A A A a a ee - ,
+se
+. a a we
+. “ be ids 3
+2 4 ““- “i t-4 ri .
+ENHANCEMENT ICON
+10
+te
+—— ~ _——
+Build Factory Icon sent in the country. See your data
+Use this icon to build a factory to pro- card for more information on fortifica-
+duce cyborgs. tion icons.
+Build Factory Enhancement Icon Battle
+Factories can be made more efficient This icon appears on all countries that
+with this option. were involved in a battle the previous
+. . . turn, and is shown in the color of one
+ae oie tti et eauncations of the attacking empires. It allows you
+. to see where cyborgs need to be
+Statistics/Options Icon repaired.
+The statistics/options screen is Cyborg
+accessed from this icon. Games are This image of a cyborg appears on all
+saved here. countries that have cyborgs in them
+Message Box at the beginning of the turn.
+This area is used to provide informa- .
+tion to the active player. It acts as an Actions on the Strategy
+information window, guiding the Control Screen
+player through the manipulations of Purchasing Capital Buildings
+his empire, providing information These are the key structures to an
+concerning the current status of the ian. Th y ide th t y
+player and his or her vault, as well as hoo eat nif one n e the con oe .
+the year and season on Orion. It also ne empire oe the means ry exploit
+displays instructions for all strategy the net vor of a country. If an ;
+activities and some information on ere Nn nt control enough capt:
+the various countries. The information “ ‘ ade fi f itself constantly short
+displayed depends on what activity of Funes hal urther cyborg and struc:
+the current player is involved in. ture purcnases. in addition to provid:
+ing revenue from countries, capitals
+Map Icons also permit other structures to be
+This section describes each icon used _ Placed in a country. Without a capital,
+_ onthe map itself. no structures can be placed in a coun-
+try. If a capital building is destroyed,
+Flag Icon all other structures in that country are
+Indicates that a capital has been pur- also destroyed. Each capital costs
+chased and the country is under gov- 30,000 credits.
+ernment control, producing income.
+Select the capital icon, then move the
+Factory ; cursor over the target country and
+Indicates that a factory is present. select it. When a capital has been suc-
+Fortification cessfully established your imperial
+This fort icon indicates that a light, flag appears in the center of the coun:
+medium, or heavy fortification is pre- try. Capitals can only be established
+in countries that are currently occu-
+pied by your cyborgs.
+8]
+] oe fi
+LL
+= CAPACITY: 1 0 |
+COST: SOO 000
+F i
+=: (CAPACITY: 2 i]
+COST: BOO OOO
+Kart ="
+} CAPACITY: 4 |
+? COST: 1 200 000
+WAULT: 1210000
+TOTAL COST: 0
+SPACE AlAIL: 5
+————— on
+Factory Purchase Menu
+Purchasing Factories Factory Bays
+Factories are the most expensive and All cyborgs are constructed in Factory
+single most important structures in Bays. A factory with one bay can only
+Cyeer Empires. They allow an empire to build one cyborg at a time, but facto-
+construct cyborgs to use in attacking ries with four bays can build four.
+and defending critical countries. If an Purchasing a Factory
+empire has an inadequate number of Select the build factory icon, then
+factories it struggles to advance into move the cursor over the target coun-
+enemy territory and may be overrun try and select it. A menu box appears
+by the sheet size of ony forces. in the middle of the screen. More than
+ere are three types ° actories one factory may be purchased if
+available for purchase: funds and space permit.
+Factory Data Summary Table
+Factory NAME Numser OF Factory Bays Factory Cost (CREDITS)
+_Uni-Post _ 1 _ 500,000
+DuakPost 800,000
+Quadro-Post _ 4 1,200,000 _
+12
+i ftir fi
+ee _  —
+This menu, shown above, permits the Building Cyborgs
+purchase of any factory or combina- A “cyborg” is the ultimate synthesis of
+tion of factories you desire. To pur- human flesh, modern robotics and
+chase a factory, place the cursor over advanced weaponry. The typical
+the appropriate factory icon and press cyborg stands between 10 and 40
+the button. A factory is not purchased —_—meters in height and weighs between
+until the OK button on the menu is 30 and 750 tons. The construction of
+selected. If you change your mind a cyborg is a long process; the fusion
+regarding a purchase you can use the of man and machine can take several
+CLEAR button to cancel it. This voids months, depending on the class of
+the previous selection(s) and returns cyborg. After extensive testing and
+the vault to its previous level. When a training, elite soldiers are given the
+factory is successfully built, a factory honor of becoming Cybernetic
+icon replaces the symbol, and the fac- — Warriors. These cyborgs are powered
+tory can be used immediately to build ~~ by a neutrino core with a life span of
+cyborgs (see the “Cyborgs” section 4,000 years. The servos and
+below). weaponry of each cyborg are con-
+
+trolled through neural connections
+between warrior and machine.
+Spe rs eae
+Se ee boars
+Bi ti WOT: TSO TOMS fj, GT: 210 TOMS Fa GYs30 TUKS
+Blige | WY Fic
+8 . : a £ i
+Bea ee ee el
+i! p,)-f wot: 330 TON fal ‘iy ‘
+Blatt ys
+E bEHENG Haw O PF cox a Rill
+; P HERCULES... 0. CiCLOPS......0 aPAC We a
+ee a aan y 3 ata
+Cyborg Selection Screen
+13
+DRAGON
+The Oragon is reasonably fast and maneuverable. Unlike the Mercury and
+Cyclops. a single Dragon has the capability of destroying the mightiest
+cyborg. This 90-ton cyborg has light armor and can be destroyed easily by
+larger cyborgs. However. if it can close to very short range. its Hellfire
+weapon is something few cyborgs can escape. It also has two light lasers
+Oragons are always valued members of a cyborg force. particularly in cities.
+Dragon Tactical Details
+; RAGON]
+Speed Fast P
+Cooling Factor 3 i
+Armor 30 ' ; ' i
+Weapon System 1 Light Laser [2) - f “A i
+Ammo System 1 Unlimited " }
+Weapon System 2 Hellfire |
+Ammo System 2 25 short bursts ; i
+|
+Cyborg Specifications left-hand portion of the screen. If you
+In Cyser Empires there are nine different wish to cancel any selections made
+classes of cyborgs. It is crucial to during the current purchase session
+learn the strengths and weaknesses of the CLEAR button can be used, but it
+each. In the boxed sections of this only cancels cyborgs purchased dur-
+rule book you will find specifications ing that specific session.
+Ao ied ae the she terms used ae The OK button terminates the purchase
+tion, below session and places the chosen cyborgs
+, , in available factory bays. The number
+Purchasing Cyborgs of cyborgs that can be purchased by
+Select the build cyborg icon, move the any one player is restricted by the
+cursor over the target country and number of factory bays in that particu-
+select it. Cyborgs can only be built in lar factory. Each cyborg occupies one
+countries that contain factories. Once factory bay during construction.
+completed, the screen at left appears. Unlike structures, cyborgs take time
+To purchase a cyborg, select the box to construct. Smaller cyborgs take one
+containing the cyborg’s statistics. strategy turn to complete, while the
+Selection of the graphic image of the largest can take up to five.
+cyborg brings up a data screen. All
+purchases are recorded in the lower
+14
+ofa
+Building Factory Moving Cyborgs
+Enhancements Once you have your first cyborgs
+These aid in the construction of built, you are ready to move them
+cyborgs, so they can only be placed in into adjacent countries. Movement
+countries that have factories. They into enemy-occupied countries results
+assist the factory in two ways: first, in an attack.
+each cyborg’s cost drops 10% for each . .
+enhancement in the country. Second, Movement is a two-step process. First,
+the build time is shortened. For exam- movement orders are issued by each
+ple, if you build a Titan in a country human and computer player. Then all
+that contains two enhancements, it plotted moves are executed in a ran-
+will cost only 80,000 credits and be dom order, country by country. All
+ready for battle in three rather than cyborgs plotted to move from one
+five turns. Production time can only country to the same destination will
+be reduced by maximum of two turns do so as a group, but when they will
+for any cyborg. Each cyborg takes a move relative to other groups cannot
+minimum of one turn to complete. be predicted.
+Cyborg Cost Summary Table
+CYBORG TYPE 0 ENH 1 ENH 2. ENH 3 ENH 4 ENH 5 ENH
+Titan 100,000 90,000 80,000 70,000 60,000 _50,C00
+Behemoth 90,000 81,000 72,000 63,000 54,000 _ 45,000
+Hercules 40,000 36,000 32,000 28,000 24,000 20,000
+Achilles 30,000 27,000 24,000 21,000 18,000 _15,000
+Crossbolt 70,000 63,000 56,000 49,000 42,000 35,000
+Mars 15,000 13,500 12,000 10,500 9,000 7,500
+Dragon 10,000 9,000 8,000 7,000 6,000 5,000
+Cyclops 5,000 4,500 4,000 3,500 3,000 2,500
+Mercury 2,500 2.250 2,000 1750 1500 1,250
+Cyborg Build Time Summary Table
+CYBORG TYPE 0 ENH 1 ENH 2. ENH 3 ENH 4 ENH 5 ENH
+Titan 5 4 3 3 3 3
+Behemoth 4 3 2 2 2 2
+Hercules 3 2 | 1 1 1
+Achilles 3 2 1 1 ] ]
+Crossbolt 4 3 2 2 2 2
+Mars 2 | ] ] 1 1
+Dragon i ] ] 1 ] l
+Cyclops ] 1 1 ] 1 ]
+Mercury 1 | 1 | ] 1
+15
+$$ ||
+LARGUS i
+PRRTH AYRAK
+CRACOW 100
+Cyborg Movement
+In order to move cyborgs from one are visible. When this has been done
+country to another, the source and successfully the screen above
+destination countries must be adja- appears.
+cent (i.e., they must have a common
+border or a bridge connecting them). To move a cyborg from the source to
+Cyborgs can only move once per turn the destination country, select the
+and all types move at the rate of one alin of the cyborg. cyborgs
+country per turn. Countries which are me appears di h b .
+occupied by you and contain cyborgs column. This indicates the cyborg is
+display a single cyborg icon in the plotted to move to the destination
+color of your empire country. The move may be taken back
+y , by clicking on the name in the desti-
+To plot movement, select the move nation column. The maximum num-
+cyborg icon. You must then select the ber of cyborgs that may be plotted to
+country to move from (source) fol-
+lowed by the country you want to
+move to (destination). You may need
+to scroll the map to the point where
+the center portions of both countries
+16
+_ RSC PCRS NG NLA SL PRCT A ne aS OO
+occupy any given country is ten; the Building Fortifications
+move box prohibits movement if this Fortifications are the key to any
+number is exceeded. Once you have defensive strategy. At best they can
+moved the desired cyborgs from the completely annihilate an invasion
+source country select the OK button. force; at worst, they still inflict heavy
+Be careful: once your cyborgs are casualties. Fortifications also hinder
+plotted to move you can no longer enemies from successfully spying.
+manipulate them. When a fortification is purchased, a
+If the cyborgs are moving to a friendly wall immediately surrounds all of the
+country, when you inspect that country structures in the country. The wall can
+the units are listed along with “TRN”. be breached by an attacker if the
+This means they are in transit and will same wall section is repeatedly
+appear there on your next turn. attacked by weapon fire. Fortifications
+are most effective on hot, clear ter-
+rains such as desert and volcanic, but
+seine =
+WEAPONS: 4 LAC ~ 4 Ri |
+COST: 100 000
+} HEAPOWS: 4 HAC - 6 LAH
+COST: 200 O00
+1 HEAPOMS: 4 WC -G@LAA
+COST: 300 O00
+WAULT: 410000
+FORT .LEWEL: WO FORTIFICATION
+SPACE AWAIL:S
+Fortification Selection
+17
+i Bs 4
+OA LN LAL LET EI ERE NE RT EEE IE GETTER E A  S
+R ]
+Fortification Summary Table
+AVERAGE WALL
+WEAPON LeveL WEAPON 1 WEAPON 2 Hit Points Cost
+Light 41LAC 4LRM 100 100,000
+Medium 4 HAC 6 LRM 300 200,000
+Heavy 4.NC 8 LRM 500 300,000
+Note: all fortification weapons systems are automatically controlled.
+are also effective on arctic and can be CLEAR button to cancel it. This voids
+strong in coniferous, provided there is the previous selection and returns the
+not an abundance of trees. vault to its previous level. Once a for-
+. tification has been successfully built a
+There are three different levels of for- fortification icon is placed in the coun-
+tifications. For a ie the try. Fortifications automatically assist
+weapon systems described here, see in the defense of that country if it is
+the “Weapon System Data” section, attacked
+below. ,
+- . Upgrading Fortifications
+Purchasing a Fortificatio n Light and medium fortifications can
+Select the build fortification icon, be upgraded by purchasing heavier
+move the cursor over the target coun- ones. The upgrade replaces the previ-
+try and select it. A menu box like the ous fortification, so another build
+one pictured at left appears in the space is not used. There is no dis-
+middle of the screen. count on a fortification cost if used to
+This menu allows the purchase of any —- upgrade.
+single fortification you can afford. To
+buy a fortification, place the cursor
+over the appropriate fortification icon
+(castles) and press the button. A forti-
+fication is not purchased until the OK
+button on the menu is selected. If you
+change your mind you can use the
+18
+$$
+Repairing Damaged Cyborgs Within the repair box all cyborgs cur-
+Repairing damaged cyborgs is vital to rently residing in the county are listed,
+a successful campaign — it is much as well as their current status. If the
+cheaper than purchasing new cyborgs _—_Cyborg’s status is “100" it is fully oper-
+and maintains your forces’ strength in _ ational and needs no repair; if, how-
+important regions of the world. ever, the cyborg’s status is less, it is
+Cyborgs can be repaired in any coun- not operating at optimal efficiency and
+try. The cost of repairing damaged should be repaired. Those needing
+cyborgs is directly related to the dam- repair have their status listed in red.
+age which they have suffered. To repair any one of the listed
+: cyborgs, place the cursor over the
+Select the repair cyborg icon. When cyborg name and select that name. If
+you have selected the target country you have enough money in your vault,
+the repair box appears in the middle the cyborg will be fully repaired and
+of the display. its status will be upgraded to 100.
+Cyborgs cannot be partially repaired.
+See _——— ——
+SHY THE
+eo4bed
+HERCULES
+EEHEHOTH
+TITAN
+HERCULES
+Cyborg Repair
+19
+fa
+
+a
+
+TRESS
+If a country has been involved in a Cyborg Status
+battle, a battle icon is placed on the This lists the cyborgs which currently
+country as a reminder that damaged reside in the country. To return to the
+cyborgs may exist there. status box select the OK button.
+Repair Cost Summary Table Bay Status
+Cysorc STATUS Repair Cost This lists all cyborgs currently under
+—o  ~ CCOSO~*«ONStruction. Only countries that con-
+7.99. 6%” tain factories display information in
+—a SS this box. The completion time (CT) is
+_ 80-89 KH tthe number of seasons (strategy
+
+70-79 18% turns) before the cyborg is opera-
+
+60 - 69 24% tional. Once CT reaches zero, the
+50-59 30% cyborg becomes active. Cyborgs are
+So automatically placed in the country of
+
+40-49 36% -
+oe  —___ construction.
+
+30-39 42%
+
+20-29 48% if no cyborg is presently under con-
+“0-19. 56%” struction (i.e., none under construc-
+ee —__ tionina factory bay), “Empty Bay”
+0-9 OK appears in place of the cyborg name.
+Note: The repair cost isa percentage of the If cyborgs are trapped in the bay (i.e.,
+original cyborg price with no factory a country currently has ten cyborgs in
+enhancements in place. addition to those recently con-
+Checking a Country’s Status structed), their names are highlighted
+The status/spy icon on the strategy in red and the CT column contains an
+control screen allows you to inspect R’, indicating that they have been
+all the characteristics of any country constructed and are ready for combat
+which you currently occupy or con- but cannot be taken out of the bay.
+trol. To check the status of a country To return to the status box, select the
+select the status/spy icon. Once the OK button.
+desired country has been selected the
+country status box appears (see bot-
+tom of page 21).
+
+20
+i fore f
+Country Glimpse Spying on the Enemy
+This is a quick and easy way to look Spying provides valuable information
+at several aspects of a friendly coun- on the opponent's strengths, weak-
+try without using the status/spy nesses, and intentions. This option has
+option. The information available the potential to be extremely useful
+includes the name, net worth, number —_ when formulating attack and defense
+of cyborgs, and the cyborg tonnage of plans, especially when using the “Fog
+a particular country. To use this of War” option. The amount of funds
+option make sure no icons are high- spent on the spy operation is directly
+lighted in red (clicking the mouse or related to the accuracy of the opera-
+joystick in the message box clears tion. The more money you spend, the
+any highlighted icon). Place the cursor higher the accuracy.
+over any friendly country (no selec-
+tion is required) and the message box The spy option cannot be used during
+displays the information mentioned the first turn of the game.
+above. This allows a player to take a To spy on a country, select the
+quick look at one, some, or all of his status/spy icon. You must choose a
+countries. neutral or unfriendly country to spy on.
+PF eciurevert | een eee [ snsmnenmemnemnenenal
+GCOWERMHEMT COMTROL IS ESTRELISHED
+WETHORTH: 21000
+EWILOG SPACE: a
+AUAILAELE SPACE: 4
+FORTIFICATION LEVEL: LIGHT
+MUHEER OF FACTORIES: 1
+| FACTORY POTEMTIAL : c
+FACTORY UPGRADES: 0
+TOTAL TOMMAGE: 0
+pcan EE PS a patie oi
+| [ee | | |
+ae aS Bld Aon Uaekeshc Stier ee cmees See |
+Country Status
+21
+meen ean mr ee RR a TT
+eK zee
+et pee ————————— oe
+eel
+ENTER THE RNOUMT HOWE’
+TOU WISH TO SPEMD.
+AULT:
+| AMOUNT TO SPEWE
+f . a ~ “
+ps a Be
+tll ea
+ke ad
+tonearm — " E
+Spying on a Country
+Once the country has been selected, a However, accuracy is rarely perfect: a
+box like the one above appears. random factor is always present in cal-
+. culations. Furthermore, when enemy
+you oe spend at east 2,000 credits countries are fortified, it is more
+arrow. ome ae on th ouple expensive to obtain accurate informa-
+ows increase ecrease tne tion, and heavier fortifications make
+amount spent by 10,000, and the sin-
+: costs greater.
+gle arrows increase and decrease the
+amount spent by 1,000. Once you
+choose the amount of money you wish
+to spend, select the 0K button and a
+second box containing the results of
+the spy operation appears. The more
+money spent, the more data will be
+gained.
+22
+oe
+| Na el
+Using the Statistics/Game STRATEGY
+Phe atstcsoume options screen lets CAMPAIGN CONFLICT
+i} i}
+you view all the resources of an empire RESOLUTION
+and contains several game options. The Strategy Campaign deals only
+Select the statistics/game options icon. with the strategy portion of Cyser
+. oe Empires. As a result, all conflicts are
+Empire Statistics resolved via the battle simulator.
+This summarizes an empire’s strength, Following the last player’s turn all
+providing counts on every aspect of cyborg movements take place, during
+the particular empire such as: total which battles for countries may occur.
+number of capitals, occupied coun- Weapon sounds followed by an explo-
+tries, factories, factory bays, factory sion indicate that battles have
+enhancements, and fortifications, as occurred. There is no way to observe
+well as vault and income. It also sum- the battles, as they take place imme-
+marizes the cyborg strength, display- diately following the closing of the
+ing the number of each type of cyborg last empire’s doors.
+currently in the empire.
+. The battle simulation considers the
+Message Delay Option _ attacking and defending cyborg types,
+The first option on this screen is the as well as the structures of the defend-
+message delay time. This sets the ing country. Fortifications add to the
+time, in seconds, that a message is defender’s firepower and help to pro-
+displayed before it is cleared. The tect the structures in the country.
+message delay defaults to 2 seconds,
+but can be increased or decreased by Note: during the course of a Strategy
+clicking on the arrow buttons. Campaign battle, some structures
+. . may be damaged or destroyed.
+Saving a Game Option
+To save the game, select the SAVE GAME COMPLETE
+button. See your data card for more
+information on saved games. ReeoLUTION ee
+oot gare elect the QUIT GAME This form of battle resolution is much
+baton Ames SEE ea
+fe. elecing he btn gan ends EAS Sulton sl valle a a
+ine Fae ae othorwace theaume handled in greater detail. The attacker
+continues. can decide to target capitals, facto-
+ries, enhancements, or enemy
+cyborgs, while the defender can set
+up a cyborg formation to ensure max-
+imum effectiveness against an
+assault. Both players control the
+cyborg of their choice. The other
+cyborgs are computer controlled, and
+23
+b oft
+& Ag
+—_—— 2 ST
+| Sere ECR RAN ne Ea seas. eee ee
+ye cere amte en: | eee ee ae ‘i hd ie | r ra.
+: =, .
+ae, be
+r HRAK ata |
+ss qeeeremencer ecmsuae ve a wie a ae. ;
+(al
+| ee
+==
+Attack Setup
+follow orders given by their generals. Preparing an Attack
+You can jump from cyborg to cyborg There are several different types of
+In order to personally take control of attacks in Cyser Empires. The screen
+any un situation. Battles tt fought shown above allows the attacker to
+on each country’s unique battle map, .
+which graphically illustrates the coun- choose a particular strategy.
+try terrain. Attack Goal Buttons
+This form of conflict resolution occurs here are four possibe attack goals
+when battles take place as a result of that are used to direct seer te
+cyborg movements in the strategy ‘rolled cyborgs during a attle. To
+phase. The game prompts you to pre- select an attack goal, select Is corre-
+pare for combat at the beginning of sponding button. Atac goa s are
+each battle, and many battles may iy important and can ey fe r
+occur. Following the conclusion of all erence between victory and defeat.
+the battles for a particular turn, the The Guerilla Attack
+Program returns to the regular strat- This instructs your cyborgs to place
+egy mode. equal emphasis on all enemy posses-
+sions. This type of attack directs your
+cyborgs to the closest enemy struc-
+ture or cyborg in an attempt to
+destroy it.
+24
+ae
+ARRIETA TS (PRB RN CATE OSE OREM ede TO Raa Se FAROESE crete es Sa
+TRESS
+MARS _ a
+The Mars is fairly fast. maneuverable, and heavily armed. It was the first
+cyborg to incorporate the dreaded neutrino cannon into its arsenal. The
+neutrino cannon can strike fear into any cyborg on the battlefield. This
+150-ton cyborg is capable of absorbing a fair amount of punishment: how-
+ever. the more damage it sustains, the more difficulty it has in dispensing
+the heat created by firing the NC. The Mars’ alternate weapon is a double
+barrel LAC which can be used when heat levels are high.
+Mars Tactical Details
+MARS IU |
+Speed Fast { |
+Cooling Factor 2 ] i
+Armor 150 f a ‘ 5 if '
+Weapon System 1 Neutrino Cannon { > je \ |
+Ammo System 1 Unlimited f a j
+Weapon System 2 Light Auto Cannon [2) | |
+Ammo System 2 15D rounds :
+i
+j
+——————————— ed
+If the defending country is a city, the before the invasion force is destroyed.
+computer-controlled cyborgs pay little It should be selected when the
+attention to the buildings, obliterating attacker realizes he does not have a
+them as they try to destroy the enemy strong enough force to take the coun-
+cyborgs or capital building. It is not try but can still damage the defending
+advisable to set a large force to the empire.
+* guerilla attack goal, if the purpose of .
+taking the city is to increase revenue. The Capital Attack b
+Large portions of the city could be s alrects sve: rer cy hed to
+destroyed bythe tacking cyborgs, uae more emphasis onthe destruc
+thereby greatly reducing its net worth. other structures or enemy cyborgs. If
+The Structure Attack the capital is successfully destroyed,
+This directs the computer cyborgs to all structures in the country are per-
+
+: place more emphasis on structures manently dismantled, as there is no
+rather than enemy cyborgs. The government to direct their operation.
+cyborgs seek out the capital building,
+factories, and/or enhancements, and The neers Attack b
+attempt to destroy them. The purpose | NS directs the computer cy orgs to
+is to damage enemy installations place more emphasis on destroying
+
+the enemy cyborgs.
+25
+i = s a
+eae 4 |
+Target Priority illustrated in the box immediately
+Determines how committed the com- above. To select an alternate cyborg
+puter cyborgs are in carrying out their simply click on the desired name.
+orders. The higher the priority, the Ending the Attack
+less likelihood that attacking cyborgs Battle Preparation
+may deviate from their assigned mis- Once h h he d d
+sion. Lower settings allow the cyborgs * you have chosen the desire
+more freedom in making decisions mission, target priority, and control
+concerning their target. Target priority cyborg me ip at Anema sor
+ig increased and decreased by clicking  PrCte: >e'ect the OK button a end the
+
+n the arrow buttons session. Alternatively, the SIM option
+" ; can be taken.
+The Information Box .
+Provides details of the attack and tar- Preparing a Defense
+get priority selections. The defender setup screen, shown
+Selecting the Control Cyborg below, allows the defender to select a
+articular defense formation.
+
+The control cyborg is the cyborg that p a
+you personally control. All cyborgs The Miniature Map
+involved in the upcoming attack have This represents the territory where the
+their name and status displayed in the conflict is to take place. All structures
+cyborg attack box. The cyborg you that are in a particular country are
+control is highlighted. Its picture is graphically displayed on the map. The
+
+i — ry r=
+
+' ; { 3
+
+§ COUNTRY: TDK BERETUN js felis
+
+é TERRAIN: DESERT INERT M
+
+§ pesommeeneensesern s z
+
+| im
+
+— 4
+
+4 ome -
+
+i waa mt 4
+
+| id 4
+
+g Ep
+
+| im y
+
+| m4 4
+
+eet
+
+Defender Setup
+26
+i 2 a
+———————————— ~ ——
+CROSSBOLT
+The Crossboit is a slow cyborg which is not designed to fight in close-range
+battles. Its specialty is long-range encounters. where it has few equals. Its
+long-range missile salvos can relentlessly pound enemy units. severely dam-
+aging them before they unleash their weapons. Several Crossbolts can quickly
+breach the heaviest fortification walls and destroy the capital within. At 150
+tons, it can sustain a fair amount of damage. It should. under no circum-
+stances. be involved in close-range battles. as its two LLs have difficulty
+warding off even the smallest cyborgs. The Crossbalt is an expensive and spe-
+cialized cyborg which is known best for its awesome missile bombardments.
+Crossboltt Tactical Details
+State as Ue D, j
+CRosse0cT] |
+Speed Slow 3
+Cooling Factor 2 i
+Armor 150 EE i
+Weapon System 1 Light Lasers [2)
+Ammo System 1 Unlimited > = 5°. ° Rae
+Weapon System 2 Long Range Missiles [4) ily ily |
+Ammo System 2 BO missiles 7 -— :
+cox: fom |
+direction from which enemy cyborgs One cyborg is always highlighted in
+are attacking is indicated by red red to indicate that it is the control
+arrows. Their relative positions are cyborg. Its location is also highlighted
+transferred to the battle map when the on the map with a uniquely colored
+game goes into combat mode. square.
+Setting Cyborg Locations Cyborg locations will be changed
+All defending cyborgs must be sepa- automatically from your intended
+rately placed on the miniature map. locations, should the chosen locations
+The currently active cyborg is high- correspond with trees, walls, gun tur-
+lighted in red. To place it in a certain rets, and other objects. Your cyborgs
+location on the map, move the cursor will be moved as short a distance as
+to the desired location and select. A possible.
+small colored square appears on the
+map to indicate the location. The next The AUTO Button
+cyborg to be placed is then high- The AUTO button is used by lazy gener-
+lighted. Once all units have been als who do not really care where their
+placed on the map the defender can cyborgs are placed. Clicking on this
+select a control cyborg. button places the defending cyborgs
+in a straight line facing the attackers.
+27
+A f |
+—_—_—_——— <<
+Choosing a Control Cyborg for you. If two humans are involved in
+To choose a control cyborg, place the the battle, both must select this option
+cursor over the cyborg’s name and in order for it to be invoked. In the
+press the mouse or joystick button. case of you-versus-the-computer, the
+The selected cyborg is highlighted, battle is resolved however you choose.
+and so is its location on the map. Battles involving two computer players
+Endi the Defender are always simulated.
+nding
+
+Preparations COMBAT MODE
+Once all cyborgs nave pean placed Following battle preparations in the
+and the control cy ae se » the Complete Campaign or Battle Practice
+OK button can be se ected to be games, the battle screen appears. The
+bat. OF the SIM option can be two participating empires have their
+engaged. symbols displayed on the respective
+Note: All cyborgs must be placed on battle windows, along with the two
+the map before exiting. control cyborgs. The attacker is
+
+always placed in the left window and
+The SIM Option the defender in the right.
+The attacker and defender screens con- The interface used in this mode of the
+tain a SIM button which can be used to game is unique. In combat mode, the
+bypass the combat mode and have the —_— joystick and/or special combat keys
+battle simulation resolve the conflict are used (see “Controls” on page 31).
+
+: Pe
+; an
+in
+Combat Mode Screen
+28
+The Combat Mode Screen Cyborgs with weak armor suffer a
+. proportionally greater loss from a hit
+Battle Windows than cyborgs with heavy armor. Thus
+These two windows show the control a Mercury receiving ten points of
+cyborg for each side, and a small por- ~— qamage loses one third of its bar
+tion of the battle map. The control length, while a Dragon loses only one
+cyborg is always in the center of its ninth of its bar length.
+window. A is reduced, the evb '
+. s armor is reduced, the cyborg also
+Short-Range Radar Windows suffers damage to its ability to diss?
+There are two of these displays. The pate heat. See the following section.
+short-range radar display is oriented
+around each control cyborg, and can Heat Meter
+be used to fire at enemy cyborgs from Cyborgs are extremely complicated
+a distance. Different colors are used electromechanical devices, and thus
+to differentiate the control cyborg, the are vulnerable to overheating as well
+attackers and defenders, and any as physical damage. Heat may be
+bursts of weapon fire. Refer to your accumulated by hits from certain
+data card for more information on the | weapons, by entering pools of hot
+display for short-range radar. lava, and even by firing certain
+. weapons. For example, the laser and
+Long-Range Radar Window neutrino beam weapons used by
+The long-range radar screen reveals cyborgs are extremely powerful, but
+the locations of all the cyborgs when these weapons are fired contin-
+involved in the battle. Again, the uously, particularly the neutrino can-
+attacker's and defender’s cyborgs are non, the cyborg heats up, possibly to
+distinguished by different colors. No the danger point. See the “Weapon
+weapon fire appears on the long and Cyborg Specifications” section for
+range radar. The control cyborgs for more information on heat from
+each side are highlighted in another weapons.
+set of colors. Refer to your data card ; . -
+for more information. Heat buildup is more ofa considera-
+tion in desert terrain, and less impor-
+' Armor Meter tant in arctic terrain. See the “Terrains”
+There is an armor meter for each con- section for more information.
+trol cyborg. This display is used to A cyborg will quickly shrug off the
+graphically illustrate the current con- effects of heat. However, the worse
+dition of the control cyborg’s armor. A State its armor is in, the more slow!
+mpletely red bar indicates that the : ya
+compietely been d dE cyborg cools off. And some cyborgs,
+cyborg has not been damaged. Every such as the Mars, have a more limited
+shot that strikes the cyborg causes ability to dissipate heat, due to cost-
+the bar to decrease by an amount saving engineering design
+based on its armor value. Once the 9 9 gn.
+bar is completely black, the cyborg is The heat meter shows the current
+unprotected and at a critical state. It heat level of the control cyborg. As
+explodes if it receives any further the heat level increases the heat
+damage. meter fills up (the red bar moves to
+the right). If the heat meter is pushed
+29
+a F on i
+A 1
+—_—_—. nn _
+ACHILLES
+The Achilles is a versatile cyborg. It is Cheap, fast. maneuverable, durable, and
+reasonably heavily armed. Its heavy lasers can quickly overheat and destroy
+enemies in hot terrain. while its short-range missiles rapidly strip armor. At
+270 tons the Achilles can hold its own against any cyborg. Its major disacivan-
+tage is its wide heavy laser mounting. which makes concentrated fire against
+asmaller cyborg impossible.
+Achilles Tactical Details
+Speed Fast BCHILLES} |
+“Cooling Factor 3 i
+Armor 270 ee See
+Weapon System 1 Heavy Lasers [4] sk? ym 6? i
+Ammo System 1 Unlimited ofa’ 4 ; ‘y .
+Weapon System 2 Short Range Missiles (2) ” i mm: i
+Ammo System 2 30 missiles ies i j
+e ae pce
+past the critical level (red pointer), the Ammunition Meters
+cyborg shuts down automatically. If Located directly under the weapon
+a cyborg shuts down it is unable to icon they represent. Red ammunition
+move or fire its weapons. The cyborg meters indicate full ammunition and
+begins to function once it has cooled black meters indicate that the weapon
+back down to the caution level (yellow —_js out of ammunition.
+pointer). However, if a cyborg ever
+teaches a meltdown temperature (if Starting a Battle
+aie is completely red), it To start a battle, both players must
+e . press their respective joystick buttons
+Weapon Selection Icons or designated keys. The empire sym-
+Each cyborg has a unique set of bols disappear and the screen springs
+Weapon systems illustrated by to life. The battle can be paused by
+Weapon icons. The current weapon is pressing “Esc”.
+highlighted by a red square. Since dif-
+ferent cyborgs have a varying number
+Of weapon systems, some weapon
+locations may be empty.
+30
+4
+Laos!
+
+HERCULES es
+The Hercules is an all-purpose heavy battle cyborg. It has the ability to
+fight lang range with its powerful neutrino cannons and heavy lasers and
+short-range using its large supply of missiles. The Hercules’ one weakness
+is its cooling factor — the double neutrino fire causes the Hercules to
+accumulate heat quickly. especially in hot terrains. At 390 tans the
+Hercules can absorb a considerable amount of punishment
+Hercules Tactical Details
+Speed Slow ABRCUCES)
+Cooling Factor 5
+Armor 390 ; &
+Weapon System 1 Neutrino Cannon (2) ‘ & eh ge, A '
+Ammo System 1 Unlimited Te Lt SF ¢ |
+Weapon System 2 Heavy lasers (2) Fr 4 F
+Ammo System 2 Unlimited
+Weapon System 3 Short Range Missiles (2) 1
+Ammo System 3 40 missiles
+Manipulating the tions. Check your data card for more
+Control Cyborg information.
+In combat mode, all the control Keyboard Controls
+cyborg’s functions are controlled The game normally uses the numeric
+either by the joystick or by the key- keypad on your keyboard for cyborg
+board. The possible movements and movement and other keys for special
+functions for MS-DOS compatible functions. In two-player games, or
+machines are summarized below. For Battle Practice games where a single
+information on the Commodore player sets up as the attacker (left
+Amiga, see your data card. side), you must use the left side of the
+Controls keyboard (see below).
+Joystick Controls Some special functions must be per-
+Movement, weapon firing, and formed using the keyboard, not by
+weapon switching can be done with a the joystick. These are: switch cyborg;
+joystick. Several other functions must hold fast; and retreat. (See below for
+be performed using the keyboard. information on these actions.) The
+
+two buttons on most MS-DOS compat-
+Note that the program supports two ible joysticks fire weapons and select
+joysticks for two player games, in new weapons, respectively.
+most MS-DOS compatible configura-
+
+The “Esc” key pauses the action.
+31
+4
+anation of You may attack enemy cyborgs far
+ombat Functions outside the range of your control
+lovement cyborg window, using the Short-
+‘This is achieved by moving the key or Range Radar map.
+joystick in the desired direction. In the special case of long-range mis-
+“Weapon Firing and Ranges siles, the view moves away from the
+To fire the current cyborg weapon, control cyborg to the missile itself.
+“press the joystick fire button or press You actually control and guide the
+he appropriate key. For rapid fire, missile to its target. This is a challeng-
+sold the button down. The cyborg will ing skill to master: new players may
+“fire a burst and then recharge. wish to let the computer use cyborgs
+a with this weapon system.
+Bi fender/single Player Default Keyboard Controls
+THESE CONTROLS APPEAR ON THE RIGHT SIDE OF THE KEYBOARD.
+1-9 keys on numeric keypad movement
+i
+‘FI switches control between cyborgs
+‘9 sets all cyborgs to hold fast
+‘8 instructs cyborgs to retreat
+: _ OO
+ton numeric keypad fires weapon
+0 (Ins) on numeric keypad switches weapon
+_Attacker/Second Player Default Keyboard Controls
+THESE CONTROLS APPEAR ON THE LEFT SIDE OF THE KEYBOARD.
+‘gweadzxc keys movement
+Fl switches control between cyborgs
+F2 sets all cyborgs to hold fast
+‘63 instructs cyborgs to retreat
+“Space fires weapon
+Re
+4 switches weapon
+a
+| 32
+Ze
+LLL LL EAD LET ED IE! TN AE IIE TR! fe a Ne ON AIL ES WN. WR TEE
+ye
+Please note that while weapon ranges Holding Fast
+are fixed, weapons have widely differ- Although there is no way to direct the
+ing rates of fire, and the same computer-controlled cyborgs during
+weapon may have slightly different the battle, a general may give the
+rates of fire on different cyborgs. You hold fast order. Hold fast instructs all
+must learn the limitations of each computer-controlled cyborgs to hold
+cyborg individually. Also, rapid fire is their positions and fire at any
+more effective against targets at short approaching cyborg. Cyborgs with
+range. At long range, you must make long-range missile capabilities nor-
+every shot count. mally only launch them if the hold
+. fast order is given. This prevents
+Athonehe cvtotveen only fire one long-range missiles from smashing
+weapon at a time, the weapon to be cyborg comrades in the backs.
+used can be set to any of the weapon To place cyborgs on hold fast press
+systems supported by that cyborg. To the appropriate key. To remove the
+change the system press the appropri- hold fast order, press the key again.
+ate button or key and the next When hold fast is engaged, “HOLD
+weapon is selected. As soon as the FAST” appears at the bottom of the
+desired weapon is highlighted it can screen.
+be discharged at the enemy. Retreating
+Changing the Control Cyborg During the course of a battle a general
+To change the control cyborg, press may decide to retreat his remaining
+the appropriate key. The switch to the cyborgs. Attacking cyborgs can only
+new cyborg usually takes place imme- retreat to the country where the
+diately. If the control cyborg is attack originated. When defending
+destroyed during the course of battle, cyborgs retreat they scatter among
+another cyborg is provided automati- friendly countries. If a general
+cally, if one is available. You may attempts to retreat and there are no
+have to wait for a moment before adjacent friendly countries left, the
+another cyborg is provided. cyborgs are destroyed.
+’ There are 2 reasons why a cyborg To break off an engagement, press
+switch may not take place: the appropriate key. All computer-
+. ntrol
+1. There are no other cyborgs left in _ ° see baal ech eiahy the
+the attack or defense. cyborg touches the boundary, it dis-
+2. All computer cyborgs are firing appears, and is placed in a friendly
+long-range missiles. country, if possible. Retreating com-
+puter-controlled cyborgs do not
+defend themselves as they retreat;
+they merely turn their backs and run.
+The computer players never opt for
+retreat.
+33
+; i fre i
+sd —_——_—! LT
+BEHEMOTH
+The Behemoth was the first elite battle cyborg to be constructed. Although
+Slow. it carries an intimidating array of weapons. Its intense heavy laser fire
+can rapidly overheat any cyborg while its light auto cannons and short-range
+missiles peel armor away from its opponents. At 600 tons the Behemoth
+can sustain a tremendous amount of punishment
+Behemoth Tactical Details
+Speed Stow i
+Armor 500 BEAEMOTA) i
+Weapon System 1 Heavy Lasers (4) i
+Cooling Factor 8 aie i
+_ Ammo System 1 Unlimited
+Weapon System 2 Short Range Missiles (2) f w 4 , ‘ 9 f i
+Ammo System 2 80 missiles : io. fe \
+Weapon System 3 Long Range Missiles (2) Er ;
+Ammo System 3 20 missiles a woe i
+Weapon System 4 Light Auto Cannon .
+Ammo System 4 200 rounds _
+Ending a Battle The Battle Map
+A battle ends when all the cyborgs Each country has a unique battle map
+from the attacker's and/or the where combat takes place. Each battle
+defender's side are destroyed, or one map is bordered by a yellow and
+general retreats all his cyborgs from black striped boundary zone. Cyborgs
+the battle. can travel anywhere inside the zone.
+. . if a player is retreating, a cyborg com-
+immed towing he bate. ngin contact withthe zone
+: oy removed from the battle.
+of both parties appears. Each side’s
+cyborg losses are listed for inspec- Critical Pieces
+tion. To exit this screen click on the To destroy any structure in the com-
+OK box. bat mode, the critical piece for that
+structure must be destroyed.
+Although each empire's structures
+have their own unique architecture,
+they all contain the same critical
+piece.
+34
+a se : i
+ae EEOC MAREE OR/ STE ON MATERIAL (OUR NAS FTN 5 8 ART RE MN SRE CTR
+Critical Capital Piece REFERENCE
+This is represented by the empire .
+symbol. - Country Particulars
+Critical Factory Bay Piece Every country in CyBer Empires has the
+This flat grid area represents a factory _ following features:
+bay. When it is destroyed the factory Net Worth
+loses this bay, as well as the cyborg it Refers to the number of credits an
+is constructing. The cyborg is not empire receives from its countries at
+shown. the start of each strategy turn, pro-
+Critical Factory vided capitals are established.
+Enhancement Piece’ Build Space
+This icon of a square with a piece of
+electronic machinery in the center Represents the number of structures
+represents the power supply for the that a country can support. This num-
+enhancement. ber always falls between one and
+seven. It is set at random at the start
+Location of Critical Structures of each game. The first country of
+On all terrains, except for the city, the every empire always has seven build
+critical structures are placed on the spaces. Each structure, whether it is a
+side opposite the attacker. In a city capital, factory, enhancement, or forti-
+the capital is always placed directly in fication, requires one build space. If a
+the middle of the map. country has zero build space no fur-
+ther structures can be built. Cities
+have only one build space.
+Terrain
+Each country is one of five terrains.
+The type of terrain significantly influ-
+ences the outcome of battles. See the
+“Terrains” section below for descrip-
+tions of each type of terrain.
+Terms Used
+Strategy Turn
+A turn in which a single player makes
+all his strategic moves. The turn starts
+when the battle doors are opened,
+and ends when they are closed.
+Selecting a Country
+In order to manipulate a country you
+must select it. This is accomplished
+by moving the cursor over the middle
+35
+:
+: a
+F & St
+of the country and pressing the Attacking an Enemy
+“mouse button or Enter key. Whenever To attack an enemy, move the
+pyou are required to select a country, a cyborgs you wish to use to the target
+“message to that effect appears in the country. During the battle simulation
+message box. or combat phase the conflict is
+Occupied Country resolved.
+A country which has no capital but Terrains
+has cyborgs present.
+uy There are five types of terrain in Cyser
+i ‘Controlled Country Empires: arctic, coniferous, desert, vol-
+A country that has a capital (the impe- canic, and city. Every country has a
+tial flag is present). No cyborgs need unique combat mode battle map
+_be present for a country to be con- which corresponds to its strategy
+trolled, only the capital. phase appearance (i.e., if a country is
+3 arctic on the strategy map the battle
+: vse genetic term which refers to map ‘saver ae ne of the ter-
+Hy rains affect battles in different ways.
+the buildings available in Cyser Empires 7
+(capitals, factories, factory enhance- Arctic
+"ments, and fortifications). This is a barren landscape, sometimes
+i: containing small rivers and lakes. It is
+A riendly Country the coldest climate on Orion and the
+Be. country occupied or controlled by easiest to fight on. Due to the low
+iy € current player. temperatures, cyborgs cool much
+funfriendly Country faster and can use all their weapons
+A country occupied or controlled by with little fear of overheating. Most
+- any player other than the current cyborgs are destroyed as a result of
+"player losing their armor.
+Neutral Country Coniferous ns lak
+“Accountry that is not occupied or con- _—‘The coniferous terrain contains lakes,
+“trolled by any empire. rivers, and trees which seem to con-
+4 stantly spoil good shots. Coniferous
+Taking Over a Neutral countries are the most abundant on
+Country Orion. The amount of trees in any
+a neutral country has no means by given country Can vary from
+which to defend itself, and can be extremely sparse to terribly dense.
+E seized by moving only one cyborg Small cyborgs can experience diffi-
+into it. However, you must oust the culty on this terrain as they struggle
+_tuling government and establish your to blast through the trees with their
+_ own in order to receive the country’s small weapons.
+‘net worth every turn. This is accom-
+plished by purchasing a capital build-
+ng for the country.
+36
+$$$.
+This terrain is fairly difficult to fightin City
+because the trees restrain the maneu- The city terrain is the most unique of
+verability of the cyborgs. Overheating —_ ail. Cities are extremely valuable as
+is also more of a concern on this ter- they provide an abundance of rev-
+rain. Cyborgs often accumulate heat enue. During the course of a battle,
+while they blast through the trees try- buildings will undoubtedly be
+ing to confront the enemy. destroyed, causing damage to the city
+Lakes can be found in some conifer- and reducing the net worth of the
+ous maps that will cool a cyborg at a country. Fierce battles have been
+slightly greater rate if entered. known to decimate cities, making
+them almost worthless. If a city has
+Desert been damaged it rejuvenates itself
+The desert terrain is very hot. slowly (2% per turn).
+Overheating is a major concern here. Cities are unquestionably the most
+Large weapons that produce signifi- difficul :
+ifficult terrain to defend as they can
+cant amounts of heat when fired can not be fortified
+quickly overheat a cyborg and render .
+it immobile. The water pools in this . °
+terrain are often a welcome sight as Strategic Hints
+they help cool the blistering cyborgs. Purchases (Rich Planet)
+. You are advised to build an abun-
+Volcanic dance of small cyborgs during the
+The volcanic terrain is arguably the early stages of the game. It is better
+most difficult to battle on. Its extreme to have a large amount of inferior
+temperatures and lava pools can cyborgs than a small amount of
+cause the mightiest cyborgs to reach slightly superior units. Factory
+maximum temperature and explode if enhancements should be purchased
+care is not taken. Unlike the desert as soon as possible. Although they
+terrain, volcanic terrain offers no are expensive, they allow you to pro-
+water sanctuary from the torrid heat. duce larger cyborgs more efficiently.
+If a cyborg becomes disabled due to .
+heat while in a lava pool it is fatal. Expansion
+' Firing weapons that produce large Initial expansion should be fast.
+amounts of heat in this terrain must Although it is important to gain con-
+be done with extreme caution. Being trol of countries to increase revenue,
+hit by high heat-producing weapons is it should not be done with reckless
+also more dangerous. abandon. Try to gain control of neigh-
+boring cities as quickly as possible.
+This substantially increases your
+income and reinforcements can be
+sent out to defend the country. Try to
+surround cities with countries of other
+terrains. These countries can be forti-
+fied, making it difficult for enemies to
+damage or take control of the city.
+
+37
+: ae
+. af DES CORR NA
+incountering an Enemy Defending (Fortification
+Jnce you have encountered an Present)
+snemy, try to consolidate the coun- Place cyborgs with long-range mis-
+: ries already held. Fortification at this siles outside the fortification walls
+“stage should be a priority. Placing a and let the computer control them.
+“ight fortification on a country adja- Computer-controlled missiles rarely
+‘ce nt to the enemy acts as a major miss their target. Place the remaining
+deterrent. As the controlling empire, cyborgs within the wall. This keeps
+“you only need to hold one cyborg in them fresh in case the enemy
+the country, safely behind the fortifi- breaches the wall. If you suspect your
+“Cation walls. This frees other cyborgs opponent is attacking with long-range
+for further expansion, attacks, or missiles (from Crossbolts in particu-
+co ntry defenses. lar), place some of your faster and
+a ae more powerful cyborgs close to the
+a hough light fortifications hold oft attacker. These cyborgs may be able
+the smaller cyborgs, the vena ke wi to destroy some Crossbolts before
+os doubtedly begin producing arger they have unleashed many of their
+units which are capable of quickly missiles
+overrunning the fortifications. Do not ‘
+‘let the fortification lure you into a Defending (No Fortification)
+false sense of security. Upgrade light If there are long-range missile cyborgs
+fortifications on fronts that may be present, place all cyborgs in a straight
+subject to attack. line as far away as possible from the
+1 vasions enemy. This gives the long-range mis-
+: vading an enemy country can be dif- siles the opportunity to inflict heavy
+ficult and costly. Combined attacks ge.
+f om 2 or 3 countries may be neces- Retreating
+ioe ry to oust the enemy. Attack the If a battle is obviously lost, do not be
+_€nemy in the weakest possible loca- a hero. Retreat and save your remain-
+aw On. Cities cannot be fortified and ing cyborgs, because they may be
+_ have a high net worth, and therefore useful in a counterattack.
+should be prime targets for initial
+attacks. Once you have taken an Weapon System Data
+_ €nemy country, fortify it immediately. F i
+This makes a Aur for your oppo. Each cyborg has its Own weapon Sys- ;
+Be : tem configuration. Firing a weapon
+Beent to recapture it through a coun- induces the side effect of heat on fir-
+prerattack. ing on the firing cyborg. Weapons
+Harassing an Enemy have different ranges, fire rates and
+“If you are not capable of launching a projectile speeds, summarized in the
+"Successful attack, harass the enemy table at the end of this section.
+by sending Dragons into their cities
+Bs d destroying larger cyborgs, fol-
+lowed up by a prompt retreat. This
+Whittles away the opposition’s forces
+and may force a premature attack.
+a 38
+eo
+whe
+A TRAE PSE EE: RELATE NE ET OIA C1 RT, RCD 7 TS SY RAR NAR AT
+
+Light Laser Light Auto Cannon
+
+Light lasers (LL) use a concentrated The light auto cannon (LAC) fires
+
+pulse beam of light particles to inflict 40mm armor-piercing shells and can
+
+damage. The LL has a range of 250 fire several streams of shells, inflict-
+
+meters and inflicts one point of dam- ing significant damage on even the
+
+age and one point of heat for every heaviest cyborgs. The LAC has a
+
+pulse. Each pulse fired also causes range of 350 meters and inflicts 4
+
+one point of heat for the firing points of damage for every shell. The
+
+cyborg. The LL is the poor man’s LAC does not cause any significant
+
+weapon. Its limited range and low heat when fired.
+
+power make it difficult to cause seri-
+
+ous damage to other cyborgs. The LL Heavy Auto Cannon -
+
+is powered through the central core The heavy auto cannon (HAC) is the
+
+of the cyborg, so it can be fired indefi-  ™Ost powerful weapon deployed by
+
+nitely. any cyborg. It is only mounted on
+Titan Class cyborgs because of its
+
+Heavy Laser size requirements. The HAC is similar
+
+Heavy lasers (HL) use a more concen- to its smaller brother except it fires
+
+trated and focused pulse than the LL, 100mm armor-piercing shells. A sin-
+
+making them much more effective in gle burst can critically damage or
+
+battle. The HL has an excellent range even destroy a heavy cyborg. The
+
+of 700 meters and inflicts 3 points of only weak point of this weapon is its
+
+damage and 4 pcints of heat for every limited range and shell speed. It has a
+
+pulse. Each pulse fired causes one range of 350 meters and inflicts 10
+
+point of heat for the firing cyborg. points of damage with every shell.
+
+The HL is a formidable weapon in any sce
+
+terrain and is greatly feared in hot ter- Short-Range Missiles :
+
+rains. It is powered through the cen- The short-range missile (SRM) is a
+
+tral core of the cyborg so it can be very effective weapon. It is designed
+
+fired indefinitely, although only in with auto-loading missile bays and
+
+slow bursts. can release deadly salvos in rapid suc-
+cession. The SRM has a range of 400
+meters. Each missile carries a heavy-
+duty payload that inflicts 16 points of
+damage and 2 points of heat per mis-
+sile. SRMs severely damage heavy
+cyborgs and obliterate lighter ones.
+
+39
+;
+
+: A fr A
+EE
+“TITAN
+
+The Titan is unquestionably the most powerful cyborg in existence. Its
+
+jong-range missiles can wreak havoc, the double-barrel neutrino cannons
+
+an tear cyborgs apart. and its close-range heavy auto cannon fire will
+
+annihilate any cyborg in its path. At 750 tons the Titan is the heaviest
+
+armored cyborg available. It also has a very high cooling factor which
+
+allows it to cross lava pools easily. Even Oragons have difficulty overheat-
+
+ing the mighty Titan. The Titan has few known weaknesses
+
+Titan Tactical Details
+
+Pa |
+
+peed Slow fritay i
+- Cooling Factor 15 ' r 4
+_ Armor 750 j ‘ » |
+_ Weapon System 1 Neutrino Cannon [2] © Ss fe, ws t
+_ Ammo System 1 Unlimited (2) { nd t |
+' Weapon System 2 Heavy Auto Cannon [2) Fr " Fr i
+my Ammo System 2 200 rounds \ i
+| Weapon System 3 Long Range Missile (2) Z 2 i
+Ammo System 3 20 missiles i
+
+Sc nd
+“Long-Range Missiles long distances, these weapons are
+Long-range missiles (LRM) employ the deadly. At close range or in cluttered
+- latest in camera-mounted missile terrain they are virtually useless.
+" technology. This guidance system Hellfire Launcher
+ie ows cyborgs to guide missiles ° The Hellfire launcher (HFL) is a spe-
+- long-range missile as you would a cialized close-range weapon that is
+: cyborg, guiding the missile’s flight mounted only on the Dragon. It fires
+~ path The guidance system combined concentrated napalm, making It dev-
+"with the missiles’ range makes this astating. It has the ability to bring any
+i Weapon deadly on open terrains. The cyborgs StF has'a ranqe of 30
+. . The as a range
+
+ERM has a range of 3,200 meters and eters and can add 12 points of heat
+
+Carries a medium payload which deliv- :
+
+ers 10 points of damage and 2 points for every burst. The HEL Is extremely
+
+of neat for every missile. The missile effective in city terrains where close-
+
+bays for the LRM are auto-loading but range fighting is impossible to avoid.
+_ Significantly slower than the SRM.
+Used correctly, in open terrain and at
+| . la ee
+Neutrino Cannon heavy laser, and inflicts 20 points of
+The neutrino is the smallest particle damage and 10 points of heat for
+known to man and travels faster than every burst. It is considered the best
+light. The neutrino cannon (NC) emits _ all-around weapon and is deadly in
+highly charged neutrino particles. any terrain. However, it must be used
+This burst of energy is extremely with caution in hot terrains as it adds
+dense and carries a force equivalent 4 heat to its host for every burst. The
+to several metric tons. On contact, the | NC is powered through the central
+NC brings both devastating damage core of the cyborg so it can be fired
+and heat to its target. The NC has a indefinitely.
+range of 700 meters, equal to the
+Weapon Data Table
+HEAT HEAT RATE PROJECTILE
+WEAPON RANGE DAMAGE _(IMPACT) _(FIRING) OF FIRE SPEED
+———— SPEED
+LL 250m 1 1 ] fast very fast
+HL 700m 3 4 i] slow very fast
+LAC 350m 4 0 0 fast slow
+HAC 350m 10 0 0 fast slow
+SRM 400m 16 2 0 slow slow
+LRM 3,200m 10 2 2 very slow fast
+HFL 80m 0 12 ] very fast very slow
+NC 700m 20 10 4 medium very fast
+41
+QUESTIONS OR PROBLEMS?
+
+Our main business number is (408) 737-6800. If you encounter disk or system
+related problems you can call our Technical Support Staff at (408) 737-6850
+between 11 a.m. and 5 p.m., Pacific Time, Monday through Friday, holidays
+excluded. NO GAME PLAYING HINTS WILL BE GIVEN THROUGH THIS NUMBER.
+You can write to us for hints at: Hints, Strategic Simulations, Inc., 675 Almanor
+Avenue, Suite 201, Sunnyvale, CA 94086 (include a stamped self-addressed
+envelope for reply). |
+IBM COMPATIBLE COMPUTER INFORMATION: |
+Many of our games will work on IBM compatible computers. If you own an IBM
+compatible computer we suggest that you consult with our Technical Support |
+Staff at (408) 737-6850 between 11 a.m. and 5 p.m., Pacific Time, Monday
+through Friday, (holidays excluded) to see if an SSI game you're considering
+purchasing is compatible with your computer. If we have insufficient data to
+determine compatibility, you may wish to purchase the game and test for
+compatibility yourself. If the game proves to be incompatible, you may return
+it within 14 days with your dated receipt and we will refund your money. Or, if
+you return the game within 30 days, you may exchange the game for another.
+, CREDITS
+Siticon KNIGHTS
+Design Team _ Silicon Knights (Denis Dyack, Rick Goertz)
+Amiga Programming Silicon Knights
+Kevin Hoare
+MS-DOS Programming __ Silicon Knights
+Andy Brownbill
+Artwork and Graphics _ Silicon Knights
+Rob Chapman
+Paul Dobson
+Soundtrack and FX _ Silicon Knights
+Richard Joseph
+Joanne Abramek
+Special Mention Andy Summerfield
+Bob Mcinerney
+Tracy Furnival
+Dave Collie
+Licenced By Gray Matter
+' Millennium
+;
+STRATEGIC SIMULATIONS, INC.
+j Producer George MacDonald
+: Associate Producer Bill Dunn
+4 Editors Eileen Matsumi
+André Vrignaud
+a Al Brown
+: Editing Support Sean House
+4 Playtesters John Boockholdt
+4 Dan Collins
+; Jason Ray
+| Steven Okano
+Don McClure
+- Artists William Yeatts
+7 Paul Barton
+Tom Wahl
+Test Support Kym Goyer
+Special Thanks to Keith Brors
+Graeme Bayless
+Al Marenco
+| Jim Jennings
+: James Young
+0 Art, Graphic Design,
+; and Desktop Publishing Louis Saekow Design
+i Pre-press Production Louis Saekow Design
+2 Printing A&a Printers and Lithographers, Inc.
+Sail the Solar
+1 ]
+are Wi nN
+8
+: PIRATES OF REALMSPACE.
+te. Captain your own Spelljammer
+r space ship in a spectacular AD&D®
+iv © adventure unlike any before!
+ae Recruit officers and crew to man
+your magic-powered ship. Soar
+yi W ~ into the ether, explore the planets
+sil of Realmspace and embark on
+4 A exciting missions. Engage exotic
+i Nish ap a pirate vessels such as neogi
+j ot} ‘ayy i snail warships in real-time
+ae a lal combat from a first-person,
+— flight simulator viewpoint. Fire
+q huge bolts from your ship's ballista and
+bring the enemy to heel. Boarding combat is
+true AD&D phased battle using weapons and
+IBM & AMIGA - $59° magic. Point-and-click your way through the
+game. Superb graphics and sound effects
+heighten the drama. With so many planets to
+; TO ORDER:. ao .
+VISA/MC — call 1-800-245-4525 visit and missions to fulfill, every adventure
+(USA & Canada). By mail — send will be different from the last! Three levels of
+aetieeaiees Liao play make this game ideal for the novice and
+to: Electronic Arts, PO. Box 7530, the experienced space mariner.
+San Mateo, CA 94403
+CA residents add applicable sales . =
+tax. Specify computer format ; vs | SU MARA RD be be Tt go
+Allow 1-3 weeks for delivery. ave trademarks owned by and used under
+= license from TSA, inc.
+sj
+511511

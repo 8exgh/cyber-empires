@@ -1,0 +1,6 @@
+/target
+/original/
+/web/game/
+/web/*.wasm
+/.idea/
+*.log
