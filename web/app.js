@@ -164,7 +164,9 @@ function mousePos(e) {
 }
 canvas.addEventListener("mousemove", e => { if (!running) return; const [x, y] = mousePos(e); exports.ce_mouse(x, y, buttons); });
 canvas.addEventListener("mousedown", e => { if (!running) return; buttons = e.buttons; clickLatch = 2; const [x, y] = mousePos(e); exports.ce_mouse(x, y, buttons | 1); e.preventDefault(); });
-window.addEventListener("mouseup", e => { if (!running) return; buttons = e.buttons; const [x, y] = mousePos(e); exports.ce_mouse(x, y, buttons); });
+// A press shorter than one frame would otherwise be released before the game samples it;
+// while the click latch is active the release is deferred to the frame loop.
+window.addEventListener("mouseup", e => { if (!running) return; buttons = e.buttons; if (clickLatch > 0) return; const [x, y] = mousePos(e); exports.ce_mouse(x, y, buttons); });
 canvas.addEventListener("contextmenu", e => e.preventDefault());
 
 // ---- loop ----
