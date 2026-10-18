@@ -96,7 +96,7 @@ cargo build --release --features native        # native helper binary
 
 Pushing to `main` builds the image `ghcr.io/8exgh/cyber-empires` (multi-stage: Rust → nginx) and
 dispatches `deploy-cyber-empires.yml` in the `8exgh/devops` repository, which runs it on Server7
-(host port 3101) behind the Server3 Cloudflare tunnel as <https://cyberempire.fusenv.com>
+(host port 3104) behind the Server3 Cloudflare tunnel as <https://cyberempire.fusenv.com>
 (`configure-cyber-empires-cloudflare.yml` creates the DNS record and tunnel route).
 
 The image ships without game data. To make the site load the game without the drag-and-drop step,
