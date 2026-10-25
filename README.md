@@ -88,6 +88,9 @@ cargo build --release --features native        # native helper binary
   practice, summaries), `src/gfx.rs`/`src/text.rs` — the 8-bit software renderer and the bitmap fonts
   taken from the original button sheets, `src/gif.rs` — GIF87a decoder, `src/wasm.rs` — the C ABI
   used by `web/app.js`.
+* `src/ui/credit.rs` — the five-second "ported by Sean Bennett" screen shown before the original
+  logos (skippable after two seconds). Its image `src/ui/credit.gif` is built from the @8examples
+  profile picture by `scripts/make-credit.py`; the caption is drawn with the game fonts.
 * `docs/re/` — the reverse-engineering notes (data formats, rules, AI, battle mechanics, UI
   rectangles) and `tools/re/` the scripts that produced the annotated disassembly and data tables.
   `docs/manual_ocr.txt` is an OCR of the original rule book used for cross-checking.

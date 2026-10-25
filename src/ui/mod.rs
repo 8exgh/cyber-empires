@@ -1,5 +1,6 @@
 //! Screens and widgets built on the original art sheets.
 pub mod battleflow;
+pub mod credit;
 pub mod options;
 pub mod practice;
 pub mod prebattle;

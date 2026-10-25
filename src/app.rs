@@ -25,6 +25,7 @@ pub enum MainChoice {
 
 pub enum Screen {
     Boot,
+    Credit { t: f32, screen: Box<crate::ui::credit::Credit> },
     Logo { index: usize, t: f32 },
     MainMenu,
     Options(Box<OptionsScreen>),
@@ -117,7 +118,8 @@ impl App {
         self.fonts = Some(Fonts { button: button.clone(), door: door.clone() });
         let (victory, victory_pal, _) = self.assets.image_cloned("openfii2.gif").ok_or("openfii2.gif")?;
         self.sheets = Some(Sheets { button, door, frame, world, fonts, victory, victory_pal });
-        self.screen = Screen::Logo { index: 0, t: 0.0 };
+        let credit = crate::ui::credit::compose(self.fonts.as_ref().ok_or("fonts")?, &bpal);
+        self.screen = Screen::Credit { t: 0.0, screen: Box::new(credit) };
         Ok(())
     }
 
@@ -148,6 +150,19 @@ impl App {
             Screen::Boot => {
                 self.fb.clear(0);
                 Screen::Boot
+            }
+            Screen::Credit { t, screen } => {
+                use crate::ui::credit::{DURATION, MIN_SHOWN};
+                let t2 = t + dt;
+                self.fb.blit(&screen.image, Rect::new(0, 0, screen.image.w as i32, screen.image.h as i32), 0, 0);
+                self.pal = screen.pal;
+                let skip = t2 >= MIN_SHOWN
+                    && (self.input.clicked() || self.input.pressed(key::ENTER) || self.input.pressed(key::SPACE) || self.input.pressed(key::ESC));
+                if t2 >= DURATION || skip {
+                    Screen::Logo { index: 0, t: 0.0 }
+                } else {
+                    Screen::Credit { t: t2, screen }
+                }
             }
             Screen::Logo { index, t } => {
                 const LOGOS: [&str; 3] = ["silknght.gif", "ssi.gif", "openfii.gif"];
@@ -307,6 +322,7 @@ impl App {
     pub fn debug_state(&self) -> String {
         match &self.screen {
             Screen::Boot => "boot".into(),
+            Screen::Credit { t, .. } => format!("credit {:.1}", t),
             Screen::Logo { index, .. } => format!("logo {}", index),
             Screen::MainMenu => "mainmenu".into(),
             Screen::Options(o) => format!("options types={:?} planet={} fog={} done={}", o.types, o.planet, o.fog, o.done),
